@@ -19,4 +19,14 @@ Instrucciones o controles adicionales se indican en la propia interfaz del mundo
 - [Animación por control de velocidad](https://jesnm01.github.io/SG_UGR/P1/ejercicio8/)
 - [Animación por recorridos](https://jesnm01.github.io/SG_UGR/P1/ejercicio9/)
 
+## Otros ejemplos
+- [GLTF animado](https://jesnm01.github.io/SG_UGR/P1/analisis-gltf-animado/)
+- [Bola elipse](https://jesnm01.github.io/SG_UGR/P1/bola_elipse/)
+- [Bola helicoidal](https://jesnm01.github.io/SG_UGR/P1/bola_helicodal/)
+- [Bola saltarina](https://jesnm01.github.io/SG_UGR/P1/bola_saltarina/)
+- [Fisica](https://jesnm01.github.io/SG_UGR/P1/fisica/)
+- [Fisica coche](https://jesnm01.github.io/SG_UGR/P1/fisica-coche/)
+- [Grapadora](https://jesnm01.github.io/SG_UGR/P1/grapadora/)
+- [Grúa](https://jesnm01.github.io/SG_UGR/P1/grua/)
+
 ## Práctica 2
