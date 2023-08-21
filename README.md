@@ -1,6 +1,6 @@
 # Sistemas Gráficos - 20/21
 Prácticas de la asignatura Sistemas Gráficos en el GII de la UGR.  
-Se ha utilizado WebGL junto con ThreeJS para desarrollar los mundos gráficos.  
+Se ha utilizado WebGL junto con Javascript y la librería de ThreeJS para desarrollar los mundos gráficos.  
   
 En todos los mundos, la cámara se puede controlar con el ratón:
 - Click derecho para desplazarse por el mundo
@@ -9,7 +9,7 @@ En todos los mundos, la cámara se puede controlar con el ratón:
 Instrucciones o controles adicionales se indican en la propia interfaz del mundo
 
 ## Ejercicios prácticos 
-- [Introducción](https://jesnm01.github.io/SG_UGR/P1/introduccion/) - Caja editable
+- [Introducción](https://jesnm01.github.io/SG_UGR/P1/introduccion/)
 - [Geometría básica 3D](https://jesnm01.github.io/SG_UGR/P1/ejercicio2/)
 - [Geometría por revolución](https://jesnm01.github.io/SG_UGR/P1/ejercicio3/)
 - [Geometría por barrido](https://jesnm01.github.io/SG_UGR/P1/ejercicio4/)
@@ -31,3 +31,12 @@ Instrucciones o controles adicionales se indican en la propia interfaz del mundo
 - [Grúa](https://jesnm01.github.io/SG_UGR/P1/grua/)
 
 ## Práctica 2
+La práctica consiste en desarrollar una aplicación gráfica. En este caso, se optó por crear un juego sencillo al estilo Flappy Bird.  
+  
+Se puede jugar [aquí](https://jesnm01.github.io/SG_UGR/P2/FlappySpaceship/).  
+  
+El único control necesario es el de impulsar la nave hacia arriba:
+- Con la tecla de 'flecha hacia arriba'
+- Con la tecla 'W'
+- Con la barra espaciadora
+- O con el click izquierdo del ratón
