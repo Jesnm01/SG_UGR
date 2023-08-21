@@ -1,6 +1,12 @@
 # Sistemas Gráficos - 20/21
 Prácticas de la asignatura Sistemas Gráficos en el GII de la UGR.  
-Se ha utilizado WebGL junto con ThreeJS para desarrollar los mundos gráficos.
+Se ha utilizado WebGL junto con ThreeJS para desarrollar los mundos gráficos.  
+  
+En todos los mundos, la cámara se puede controlar con el ratón:
+- Click derecho para desplazarse por el mundo
+- Click izquierdo para rotarla
+
+Instrucciones o controles adicionales se indican en la propia interfaz del mundo
 
 ## Ejercicios prácticos 
 - [Introducción](https://jesnm01.github.io/SG_UGR/P1/introduccion/) - Caja editable
