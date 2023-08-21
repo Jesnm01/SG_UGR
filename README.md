@@ -1,4 +1,6 @@
-# Prácticas de Sistemas Gráficos - 20/21
+# Sistemas Gráficos - 20/21
+Prácticas de la asignatura Sistemas Gráficos en el GII de la UGR.  
+Se ha utilizado WebGL junto con ThreeJS para desarrollar los mundos gráficos.
 
 ## Ejercicios prácticos 
 - [Introducción](https://jesnm01.github.io/SG_UGR/P1/introduccion/) - Caja editable
