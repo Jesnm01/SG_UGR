@@ -20,6 +20,7 @@ Instrucciones o controles adicionales se indican en la propia interfaz del mundo
 - [Animación por recorridos](https://jesnm01.github.io/SG_UGR/P1/ejercicio9/)
 
 ## Otros ejemplos
+- [Comecocos](https://jesnm01.github.io/SG_UGR/P1/comecocos_recorrido/)
 - [GLTF animado](https://jesnm01.github.io/SG_UGR/P1/analisis-gltf-animado/)
 - [Bola elipse](https://jesnm01.github.io/SG_UGR/P1/bola_elipse/)
 - [Bola helicoidal](https://jesnm01.github.io/SG_UGR/P1/bola_helicodal/)
