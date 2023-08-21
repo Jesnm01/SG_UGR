@@ -1,0 +1,161 @@
+
+
+  .container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .item {
+    /* height: 100px; */
+    width: 25%; /* A fixed width as the default */
+    background-color: #272b30;
+  }
+  
+  .item-center { 
+    flex-grow: 1; /* Set the middle element to grow and stretch */
+  }
+  
+  .item + .item { 
+    margin-left: 2%; 
+  }
+
+  canvas { 
+    width: 100%;
+    height: 100%;
+  }
+
+  #titulo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: seashell;
+    text-align: justify;
+  }
+
+  .info-basica{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    color: seashell;
+    text-align: justify;
+    margin: 5%;
+  }
+
+  .botonera-inicio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .centro-flex{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+  }
+
+  #container-litros-gasolina{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: seashell;
+    text-align: justify;
+  }
+
+  #velocidad{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: seashell;
+    text-align: center;
+  }
+
+
+
+  #div-puntuacion{
+    position: absolute; 
+    left: 48%;
+    top: 0%;
+  }
+
+  #puntuacion{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3em;
+  }
+
+  .button-initial-menu {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #5d9f31;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+  .button-initial-menu span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button-initial-menu span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button-initial-menu:hover span {
+    padding-right: 25px;
+  }
+  
+  .button-initial-menu:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+  #game-over-menu{
+    display: none;
+    background-color: #93ea58;
+    border-radius: 15%;
+    width: 90%;
+    height: 290px;
+    /* position: absolute; */
+    /* left: 36vw; */
+    /* top: 27%; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: rgb(0 0 0 / 19%) 0px 10px 20px, rgb(0 0 0 / 23%) 0px 6px 6px;
+  }
+
+  #game-over-text{
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+
+  #puntuacion-game-over{
+    margin-left: 7%;
+    margin-bottom: 9%;
+  }
+
+  .botonera-game-over{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .botonera-game-over button {
+    font-size: 18px;
+    width: auto;
+    padding: 13px;
+  }
+  
+
+
+
+  
