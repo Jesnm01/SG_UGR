@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures\Gas Can_Base_color.png
-map_Bump textures\Gas Can_Height.png
-# map_Ks textures\Gas Can_Metallic.png
-map_Ns textures\Gas Can_Roughness.png
+map_Kd textures\Gas_Can_Base_color.png
+map_Bump textures\Gas_Can_Height.png
+# map_Ks textures\Gas_Can_Metallic.png
+map_Ns textures\Gas_Can_Roughness.png

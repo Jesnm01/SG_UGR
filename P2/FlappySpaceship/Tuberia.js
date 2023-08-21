@@ -68,7 +68,7 @@ class Tuberia extends THREE.Object3D{
       this.matNormal.side = THREE.DoubleSide;
 
 
-      var texture = new THREE.TextureLoader().load('../../imgs/tuberia.png');
+      var texture = new THREE.TextureLoader().load('../imgs/tuberia.png');
       var textura_cuerpo = new THREE.MeshPhongMaterial();
       textura_cuerpo.map = texture;
 

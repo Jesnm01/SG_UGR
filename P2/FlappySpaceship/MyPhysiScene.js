@@ -137,7 +137,7 @@ class MyPhysiScene extends Physijs.Scene {
     var geomSuelo = new THREE.BoxGeometry (150,20,15);
     
     // El material se hará con una textura
-    var texture = new THREE.TextureLoader().load('../../imgs/suelo.png');
+    var texture = new THREE.TextureLoader().load('../imgs/suelo.png');
     var materialGround = new THREE.MeshPhongMaterial ({map: texture});
 
     var matFisico = Physijs.createMaterial(materialGround, 0.9,0.3);

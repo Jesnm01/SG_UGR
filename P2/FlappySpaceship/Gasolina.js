@@ -59,9 +59,9 @@ class Gasolina extends THREE.Object3D{
       var materialLoader = new THREE.MTLLoader();
       var objectLoader = new THREE.OBJLoader();
 
-      materialLoader.load('../models/Gas Can.mtl', function (materials) {
+      materialLoader.load('../models/Gas_Can.mtl', function (materials) {
         objectLoader.setMaterials (materials);
-        objectLoader.load('../models/Gas Can.obj', function(object){
+        objectLoader.load('../models/Gas_Can.obj', function(object){
             var modelo = object;
             that.meshGasolina.add(modelo);
         },null,null);
